@@ -1,0 +1,1 @@
+User are able to create a simple account by creating a username during game. Some functions include inventory, level combat as well as purchasing and selling function. Datatypes, typeclasses, monads, etc are used to showcase functional programming principles. 
